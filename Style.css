@@ -1,0 +1,38 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+    margin: 0;
+  
+}
+.welcome{
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+}
+h4{
+    font-weight: 300;
+}
+.text{
+    color: rgb(105, 105, 245);
+}
+.flex-bg{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 7%;
+    padding-top: 2%;
+}
+.fahad-pic{
+    width: 80%;
+    border-radius: 500px;
+}
+.button{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(69, 102, 192);
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(69, 102, 192), skyblue);
+}
